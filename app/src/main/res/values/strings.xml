@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BipolarFactoryAssisgnment</string>
+    <string name="tab_text_1">Pets</string>
+    <string name="tab_text_2">Nature</string>
+</resources>
